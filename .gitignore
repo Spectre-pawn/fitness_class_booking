@@ -1,1 +1,18 @@
 sample.md
+# Virtual environment
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database and logs
+*.sqlite3
+*.log
+
+# System/IDE files
+.DS_Store
+.idea/
+.vscode/
