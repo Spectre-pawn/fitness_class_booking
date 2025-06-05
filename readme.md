@@ -77,7 +77,7 @@ http://127.0.0.1:8000/api/
 
 ---
 
-## 1. 📅 List Available Classes
+## 1.List Available Classes
 
 ### Endpoint: `GET /api/classes/`
 
@@ -141,7 +141,7 @@ curl -X GET "http://127.0.0.1:8000/api/bookings/?email=kunal@gmail.com"
 - Value: `America/New_York` (or any valid timezone)
 
 
-#### 2. 📝 POST Create Booking
+#### 2. POST Create Booking
 
 **Request Setup:**
 - **Method:** POST
